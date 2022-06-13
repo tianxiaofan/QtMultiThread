@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FpsCounter.qml</file>
+        <file>MatchesWindow.qml</file>
+    </qresource>
+</RCC>

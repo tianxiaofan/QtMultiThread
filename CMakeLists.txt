@@ -1,0 +1,10 @@
+﻿cmake_minimum_required(VERSION 3.14)
+
+project(QtMultiThread VERSION 0.1 LANGUAGES CXX)
+add_subdirectory(dataCruncher)
+add_subdirectory(dataCruncherTimer)
+add_subdirectory(workerThread)
+add_subdirectory(workerObject)
+add_subdirectory(runable)
+add_subdirectory(waitConditions)
+add_subdirectory(futures)
